@@ -1,0 +1,373 @@
+
+.pirveli{
+    min-height: 500px;
+        
+    background-image: url(../img/123.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.meore{
+   min-height: 800px;
+        
+    background: #fff;
+   
+    margin-top: -460px;
+    margin-left: -340px;
+    width: 1350px;
+    height: 500px;
+    border-radius: 350px;
+    top: -200px;
+    
+    
+
+}
+  @media (max-width:991px){
+    .meore{
+        opacity: 0;
+        width: 0;
+    }
+    
+    .dutututtu{
+        margin-right: 190px;
+    }
+    .papa{
+        padding: 20px;
+    }
+    .meotxe{
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+ .sasa{
+    width: 300px !important;
+    margin-left: 80px;
+ }
+.image2{
+    margin-left: 0px !important;
+}
+.civiluri{
+    margin-left: 0px !important;
+}
+.es32{
+    margin-left: 0px !important ;
+}
+.pp20{
+    margin-left: 0px !important;
+}
+.dutututtu{
+    width: 100px !important;
+    margin-left: 50px !important;
+}
+.uli{
+    width: 200px;
+}
+
+
+}  
+
+
+.shesvlan{
+    background: #C4730A;
+    padding: 12px 24px;
+    gap: 16px;
+}
+.fonti{
+    padding: 12px 24px;
+    gap: 16px;
+
+}
+.is48{
+    font-size: 48px;
+    letter-spacing: -0.01em;
+}
+.is20{
+    font-size: 20px;
+    color: #612B00;
+
+}
+
+
+
+
+.mesame{
+    min-height: 700px;
+}
+.sata{
+    margin-top: 128px;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+}
+.otximgeli{
+    margin-top: 120px;
+}
+
+.samimgeli{
+    margin-top: 145px;
+}
+
+
+
+.meotxe{
+    min-height: 82px;
+    background: rgba(243, 243, 243, 1);
+
+}
+
+
+.rasi{
+    text-align: center;
+  
+}
+
+  .rasi ul li {
+  
+    display: inline-block;
+  }
+  
+  .rasi ul li .nazi {
+    display: list-item;
+    color: rgba(94, 94, 94, 1);
+    font-size: 24px;
+    text-decoration: none;
+    padding: 18px 100px;
+    border-bottom: 2px solid transparent;
+  }
+  .rasi ul li .nasi {
+    display: block;
+    color: rgba(94, 94, 94, 1);
+    font-size: 24px;
+    text-decoration: none;
+    padding: 18px 100px;
+    border-bottom: 2px solid transparent;
+  }
+
+
+  .mexute{
+    min-height: 864px;
+  }
+.kacuna{
+    margin-top: 200px;
+    margin-left: -100px;
+}
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);
+}
+.fontaia{
+    font-family: 'Raleway', sans-serif;
+    color: rgba(223, 137, 40, 1);
+    font-size: 24px;
+    margin-top: 330px;
+    letter-spacing: 0.2em;
+
+}
+.itxoxo{
+    font-size: 48px;
+    letter-spacing: -0.01em;
+}
+.commeore{
+    margin-top: 57px;
+}
+.p{
+    font-size: 24px;
+}
+@font-face {
+    font-family: 'Unbounded', cursive;
+    src: url(./fonts/Unbounded-VariableFont_wght.ttf);
+}
+.ptext{
+    font-family: 'Unbounded', cursive;
+
+}
+
+
+
+.meeqvse{
+    min-height: 518px;
+}
+
+.robota{
+    font-family: 'Raleway', sans-serif;
+}
+.cus20{
+    font-size: 20px;
+   
+}
+
+
+.meshvide{
+    min-height: 768px;
+}
+.fontaia2{
+    font-family: 'Raleway', sans-serif;
+    color: rgba(223, 137, 40, 1);
+    font-size: 24px;
+    margin-top: 100px;
+    letter-spacing: 0.2em;
+
+
+}
+.enteri{
+    font-size: 48px;
+    letter-spacing: -0.01em;
+
+}
+.esari24{
+    font-size: 24px;
+    letter-spacing: -0.01em;
+
+}
+.image2{
+    margin-left: 150px;
+}
+
+
+
+.merve{
+    min-height: 850px;
+    background-blend-mode: overlay;
+    background: rgba(182, 187, 167, 0.801);
+    background-image: url(./img/26d60ccaf05449fc9f5276a8a044c590.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.asa{
+    font-size: 48px;
+    letter-spacing: -0.01em;
+
+    
+}
+.aibr20{
+    margin-top: -30px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+.asasss{
+    opacity: 0;
+}
+
+.mecxre{
+    min-height: 242px;
+    background: linear-gradient(91.76deg, #D48C04 -11.76%, #B35911 103.23%);
+
+}
+
+.es32{
+    font-size: 32px;
+    color: rgba(252, 246, 240, 1);
+    margin-left: -150px;
+    letter-spacing: -0.01em;
+
+
+}
+
+.pp20{
+   
+    font-size: 20px;
+    font-family: 'Unbounded', cursive;
+    margin-left: -150px;
+}
+
+.civiluri{
+    width: 500px !important;
+   margin-left: 160px;
+}
+
+
+
+
+
+.meate{
+    min-height: 933.11px;
+}
+
+.meate24{
+    font-size: 24px;
+    letter-spacing: 0.2em;
+    color: rgba(196, 115, 10, 1);
+    margin-top: 170px;
+    
+
+}
+.talk48{
+    font-size: 48px;
+    color: rgba(75, 75, 75, 1);
+   
+    letter-spacing: -0.01em;
+}
+.qwe32{
+    font-size: 32px;
+    letter-spacing: -0.01em;
+
+}
+.mail16{
+    font-size: 16px;
+    font-family: 'Unbounded', cursive;
+
+
+}
+
+
+
+
+.bolo{
+    min-height: 398px;
+    background: rgba(75, 75, 75, 1);
+
+}
+
+.aiconi{
+    font-size: 35px;
+    color: #fff;
+
+}
+.aiconi:hover{
+    color: #fff;
+}
+
+.clienti{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
+.uli li {
+    display: block;
+}
+ul li a{
+    text-decoration: none;
+}
+.qqqqqq{
+    width: 250px !important;
+}
+
+.dutututtu{
+    margin-left: 190px;
+}
+.xazi{
+   
+    
+    border-bottom: 1px solid #5E5E5E;
+}
+.privici{
+    font-family: 'Raleway', sans-serif;
+    color: rgba(243, 243, 243, 1);
+    font-size: 14px;
+
+}
+.ulii li{
+    display: inline-block;
+}
+.ulii li a{
+    padding: 18px 15px;
+}
+p .privici {
+    text-decoration: none;
+}
+
+
