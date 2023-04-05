@@ -154,7 +154,7 @@
 }
 @font-face {
     font-family: 'Raleway', sans-serif;
-    src: url(./fonts/Raleway-VariableFont_wght.ttf);
+    src: url(fonts/Raleway-VariableFont_wght.ttf);
 }
 .fontaia{
     font-family: 'Raleway', sans-serif;
@@ -176,7 +176,7 @@
 }
 @font-face {
     font-family: 'Unbounded', cursive;
-    src: url(./fonts/Unbounded-VariableFont_wght.ttf);
+    src: url(fonts/Unbounded-VariableFont_wght.ttf);
 }
 .ptext{
     font-family: 'Unbounded', cursive;
@@ -230,7 +230,7 @@
     min-height: 850px;
     background-blend-mode: overlay;
     background: rgba(182, 187, 167, 0.801);
-    background-image: url(./img/26d60ccaf05449fc9f5276a8a044c590.jpg);
+    background-image: url(img/26d60ccaf05449fc9f5276a8a044c590.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
